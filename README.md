@@ -5,13 +5,12 @@ Get Perfect Shadows!
 # Installation
 
 `npm i genesiznpm --save`
-Is That Easy!
+Its That Easy!
 
 Then...
 
 ```
-const genesiznpm = require('genesiznpm');
-
+import { genesiznpm } from genesiznpm
 genesiznpm({
     shadow_type: <'soft or hard'>,
     padding: <false or true>
